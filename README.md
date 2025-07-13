@@ -1,4 +1,4 @@
-#Doctorian Clinic
+# Doctorian Clinic
 🩺 Clinic Management API Project — ASP.NET Core Web API
 This project is a fully functional Clinic Management RESTful API developed using ASP.NET Core, Entity Framework Core, and Microsoft Identity. It is designed to serve as the backend for a clinic system that manages appointments, doctors, patients, and user roles with secure authentication and authorization.
 
