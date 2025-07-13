@@ -1,0 +1,6 @@
+@clinic.PresentationAPI_HostAddress = http://localhost:5217
+
+GET {{clinic.PresentationAPI_HostAddress}}/help/
+Accept: application/json
+
+###

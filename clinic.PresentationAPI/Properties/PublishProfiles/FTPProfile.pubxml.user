@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeGKra2qUrUy/D8U9O2o6cwAAAAACAAAAAAAQZgAAAAEAACAAAABKTp2nK5Ou0qn1gnQE5x6TZOWYT9yGe/AZmoBelQzVxwAAAAAOgAAAAAIAACAAAAAfJtyVFd0Pjo5jX9Ug2PlQXqermd0COHCMqxbtpbqyzyAAAAD/PfFzu903nTTFjaPG6tjF5L0vzKMt/cWCopmJb9bFykAAAACEIgonRCZGMK8u4macMYNIPsfDnuobyk7axcl99OlcNbr3tqqtii/YqJV/vKAGIX5DvCfkm6D14UHANNsBGvoX</EncryptedPassword>
+    <History>False|2025-07-13T00:23:43.1192316Z||;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftp://doctorian.somee.com/www.doctorian.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.json">
+      <publishTime>06/30/2025 02:25:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
