@@ -42,4 +42,4 @@ Swagger / Swashbuckle
 
 Angular (as frontend client)
 
-Somee.com (for deployment)
+Somee.com (for deployment) : https://doctorian.somee.com/
