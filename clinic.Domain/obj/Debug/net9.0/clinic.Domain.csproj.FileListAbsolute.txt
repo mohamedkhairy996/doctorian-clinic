@@ -1,0 +1,12 @@
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\bin\Debug\net9.0\clinic.Domain.deps.json
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\bin\Debug\net9.0\clinic.Domain.dll
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\bin\Debug\net9.0\clinic.Domain.pdb
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\clinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\clinic.Domain.AssemblyInfoInputs.cache
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\clinic.Domain.AssemblyInfo.cs
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\clinic.Domain.csproj.CoreCompileInputs.cache
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\clinic.Domain.dll
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\refint\clinic.Domain.dll
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\clinic.Domain.pdb
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\ref\clinic.Domain.dll
+D:\open\Fullstack-Project\backend\Clinic\clinic-Solution\clinic.Domain\obj\Debug\net9.0\clinic.Domain.csproj.AssemblyReference.cache
